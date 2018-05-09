@@ -1,0 +1,15 @@
+﻿生成启动时间为 2017/2/25 22:18:50。
+     1>项目“E:\vs 2010程序\2016_12_16_继承 域\2016_12_16_继承 域.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\2016_12_16_继承 域.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "域.cpp"
+         域.cpp
+     1>e:\vs 2010程序\2016_12_16_继承 域\域.cpp(48): error C2248: “Bird::fly_prptected”: 无法访问 protected 成员(在“Bird”类中声明)
+                 e:\vs 2010程序\2016_12_16_继承 域\域.cpp(15) : 参见“Bird::fly_prptected”的声明
+                 e:\vs 2010程序\2016_12_16_继承 域\域.cpp(4) : 参见“Bird”的声明
+     1>已完成生成项目“E:\vs 2010程序\2016_12_16_继承 域\2016_12_16_继承 域.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.04

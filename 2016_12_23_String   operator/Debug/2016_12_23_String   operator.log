@@ -1,0 +1,39 @@
+﻿生成启动时间为 2016/12/23 15:45:42。
+     1>项目“E:\vs 2010程序\2016_12_23_String   operator\2016_12_23_String   operator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\2016_12_23_String   operator.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "String operator.cpp"
+         String operator.cpp
+     1>e:\vs 2010程序\2016_12_23_string   operator\string operator.cpp(11): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\vs 2010程序\2016_12_23_string   operator\string operator.cpp(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\vs 2010程序\2016_12_23_string   operator\string operator.cpp(23): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(110) : 参见“strcat”的声明
+     1>e:\vs 2010程序\2016_12_23_string   operator\string operator.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2010\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\vs 2010程序\2016_12_23_string   operator\string operator.cpp(45): warning C4172: 返回局部变量或临时变量的地址
+     1>e:\vs2010\vc\include\ostream(604): error C2248: “std::basic_ios<_Elem,_Traits>::basic_ios”: 无法访问 private 成员(在“std::basic_ios<_Elem,_Traits>”类中声明)
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 e:\vs2010\vc\include\ios(176) : 参见“std::basic_ios<_Elem,_Traits>::basic_ios”的声明
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 此诊断出现在编译器生成的函数“std::basic_ostream<_Elem,_Traits>::basic_ostream(const std::basic_ostream<_Elem,_Traits> &)”中
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+     1>已完成生成项目“E:\vs 2010程序\2016_12_23_String   operator\2016_12_23_String   operator.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.37

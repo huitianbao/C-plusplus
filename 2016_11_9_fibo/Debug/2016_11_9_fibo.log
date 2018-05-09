@@ -1,0 +1,18 @@
+﻿生成启动时间为 2016/11/9 19:13:12。
+     1>项目“E:\vs 2010程序\2016_11_9_fibo\2016_11_9_fibo.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\2016_11_9_fibo.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt fibo.cpp
+         fibo.cpp
+     1>e:\vs 2010程序\2016_11_9_fibo\fibo.cpp(19): error C2601: “get_fn”: 本地函数定义是非法的
+                 e:\vs 2010程序\2016_11_9_fibo\fibo.cpp(5): 此行有一个“{”没有匹配项
+     1>e:\vs 2010程序\2016_11_9_fibo\fibo.cpp(28): error C2065: “result”: 未声明的标识符
+     1>e:\vs 2010程序\2016_11_9_fibo\fibo.cpp(29): error C2065: “n”: 未声明的标识符
+     1>e:\vs 2010程序\2016_11_9_fibo\fibo.cpp(30): error C2065: “n”: 未声明的标识符
+     1>e:\vs 2010程序\2016_11_9_fibo\fibo.cpp(32): error C2065: “tmp”: 未声明的标识符
+     1>已完成生成项目“E:\vs 2010程序\2016_11_9_fibo\2016_11_9_fibo.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.28

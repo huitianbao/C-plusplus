@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/5/20 12:53:14。
+     1>项目“E:\vs 2010程序\2017_5_15_ 软件工程\2017_5_15_ 软件工程.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\2017_5_15_ 软件工程.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs 2010程序\2017_5_15_ 软件工程\Debug\2017_5_15_ 软件工程.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2017_5_15_ 软件工程.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\vs 2010程序\2017_5_15_ 软件工程\Debug\2017_5_15_ 软件工程.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs 2010程序\2017_5_15_ 软件工程\Debug\2017_5_15_ 软件工程.lib" /MACHINE:X86 "Debug\2017_5_15_ 软件工程.exe.embed.manifest.res"
+         "Debug\init   first.obj"
+         Debug\youhua.obj
+     1>youhua.obj : error LNK2005: "void __cdecl calGaussCoef(double *)" (?calGaussCoef@@YAXPAN@Z) 已经在 init   first.obj 中定义
+     1>youhua.obj : error LNK2005: "void __cdecl conv2D(double *,unsigned char *,unsigned char *,int,int,int)" (?conv2D@@YAXPANPAE1HHH@Z) 已经在 init   first.obj 中定义
+     1>youhua.obj : error LNK2005: _main 已经在 init   first.obj 中定义
+     1>E:\vs 2010程序\2017_5_15_ 软件工程\Debug\2017_5_15_ 软件工程.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“E:\vs 2010程序\2017_5_15_ 软件工程\2017_5_15_ 软件工程.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.39

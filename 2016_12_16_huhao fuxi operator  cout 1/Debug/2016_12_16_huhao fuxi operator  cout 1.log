@@ -1,0 +1,16 @@
+﻿生成启动时间为 2016/12/16 15:38:19。
+     1>项目“E:\vs 2010程序\2016_12_16_huhao fuxi operator  cout 1\2016_12_16_huhao fuxi operator  cout 1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\2016_12_16_huhao fuxi operator  cout 1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "cout 1.cpp"
+         cout 1.cpp
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi operator  cout 1\cout 1.cpp(66): warning C4172: 返回局部变量或临时变量的地址
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi operator  cout 1\cout 1.cpp(80): warning C4620: 未找到类型“Compare”的“运算符 ++”后缀形式，使用前缀形式
+                 e:\vs 2010程序\2016_12_16_huhao fuxi operator  cout 1\cout 1.cpp(30) : 参见“Compare”的声明
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi operator  cout 1\cout 1.cpp(47): error C4716: “Compare::operator=”: 必须返回一个值
+     1>已完成生成项目“E:\vs 2010程序\2016_12_16_huhao fuxi operator  cout 1\2016_12_16_huhao fuxi operator  cout 1.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.41

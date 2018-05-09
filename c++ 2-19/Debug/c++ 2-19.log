@@ -1,0 +1,27 @@
+﻿生成启动时间为 2017/1/5 22:43:13。
+     1>项目“E:\vs 2010程序\c++ 2-19\c++ 2-19.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\c++ 2-19.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "2-19.cpp"
+         2-19.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\c++ 2-19.exe.embed.manifest.res" "Debug\c++ 2-19_manifest.rc" 
+       Link:
+         E:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\c++ 2-19.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.lib" /MACHINE:X86 "Debug\c++ 2-19.exe.embed.manifest.res"
+         "Debug\2-19.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\c++ 2-19.exe.embed.manifest" /manifest "Debug\c++ 2-19.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\c++ 2-19.exe.embed.manifest.res" "Debug\c++ 2-19_manifest.rc" 
+       LinkEmbedManifest:
+         E:\vs2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\c++ 2-19.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.lib" /MACHINE:X86 "Debug\c++ 2-19.exe.embed.manifest.res"
+         "Debug\2-19.obj"
+         c++ 2-19.vcxproj -> E:\vs 2010程序\c++ 2-19\Debug\c++ 2-19.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\c++ 2-19.unsuccessfulbuild”。
+         正在对“Debug\c++ 2-19.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\vs 2010程序\c++ 2-19\c++ 2-19.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.51

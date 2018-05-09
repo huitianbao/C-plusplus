@@ -1,0 +1,7 @@
+E:\vs 2010程序\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\vs 2010程序\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\vs 2010程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\vs 2010程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\vs 2010程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\vs 2010程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\vs 2010程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

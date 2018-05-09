@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2016_12_16_告白代码 4", "2016_12_16_告白代码 4.vcxproj", "{112BF8DB-9B48-406A-A040-4EAFABD53DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112BF8DB-9B48-406A-A040-4EAFABD53DE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{112BF8DB-9B48-406A-A040-4EAFABD53DE0}.Debug|Win32.Build.0 = Debug|Win32
+		{112BF8DB-9B48-406A-A040-4EAFABD53DE0}.Release|Win32.ActiveCfg = Release|Win32
+		{112BF8DB-9B48-406A-A040-4EAFABD53DE0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/12/16 15:01:28。
+     1>项目“E:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\2016_12_16_huhao fuxi  sort 1.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\2016_12_16_huhao fuxi  sort 1.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "sort 1.cpp"
+         sort 1.cpp
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\sort 1.cpp(21): error C2601: “swap”: 本地函数定义是非法的
+                 e:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\sort 1.cpp(4): 此行有一个“{”没有匹配项
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\sort 1.cpp(28): error C2601: “sort”: 本地函数定义是非法的
+                 e:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\sort 1.cpp(4): 此行有一个“{”没有匹配项
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\sort 1.cpp(32): error C2446: “<”: 没有从“int []”到“int”的转换
+                 没有使该转换得以执行的上下文
+     1>e:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\sort 1.cpp(32): error C2040: “<”:“int”与“int []”的间接寻址级别不同
+     1>已完成生成项目“E:\vs 2010程序\2016_12_16_huhao fuxi  sort 1\2016_12_16_huhao fuxi  sort 1.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.31

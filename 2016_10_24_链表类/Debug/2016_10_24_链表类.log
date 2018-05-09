@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/12/15 22:11:45。
+     1>项目“E:\vs 2010程序\2016_10_24_链表类\2016_10_24_链表类.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\2016_10_24_链表类.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\vs2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "链表类.cpp"
+         链表类.cpp
+     1>e:\vs 2010程序\2016_10_24_链表类\链表类.cpp(244): error C2440: “初始化”: 无法从“Node *”转换为“int”
+                 没有使该转换得以执行的上下文
+     1>e:\vs 2010程序\2016_10_24_链表类\链表类.cpp(272): error C2679: 二进制“=”: 没有找到接受“int”类型的右操作数的运算符(或没有可接受的转换)
+                 e:\vs 2010程序\2016_10_24_链表类\链表类.cpp(9): 可能是“Node &Node::operator =(const Node &)”
+                 尝试匹配参数列表“(Node, int)”时
+     1>已完成生成项目“E:\vs 2010程序\2016_10_24_链表类\2016_10_24_链表类.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.04
